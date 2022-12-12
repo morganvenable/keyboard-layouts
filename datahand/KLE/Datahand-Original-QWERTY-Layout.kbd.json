@@ -1,0 +1,259 @@
+[
+  {
+    "name": "Datahand Original QWERTY Layout",
+    "author": "Morgan Venable",
+    "radii": "10px"
+  },
+  [
+    {
+      "x": 6,
+      "c": "#3f3f3f",
+      "t": "#ffffff\n#3b64ff\n\n#f9ff00",
+      "fa": [
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "E\n#\n\nF6",
+    {
+      "x": 7.5
+    },
+    "I\n*\n\nF8"
+  ],
+  [
+    {
+      "x": 5,
+      "t": "#ffffff\n#3b64ff"
+    },
+    "`\n<",
+    {
+      "t": "#ffffff\n#3b64ff\n\n#f9ff00"
+    },
+    "D\n3\n\nMou",
+    {
+      "t": "#ffffff\n#3b64ff"
+    },
+    "T\n>",
+    {
+      "x": 5.5,
+      "t": "#ffffff\n#3b64ff\n\n#f9ff00"
+    },
+    "Y\n^\n\nEnd",
+    "K\n8\n\nNav",
+    ":\n:\n\nSHIFT"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 3.5
+    },
+    "W\n@\n\nF4",
+    {
+      "x": 4
+    },
+    "R\n$\n\nUp",
+    {
+      "x": 2.5
+    },
+    "U\n&\n\nUp",
+    {
+      "x": 4
+    },
+    "O\n(\n\nF10"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 6
+    },
+    "C\n%\n\nF5",
+    {
+      "x": 7.5
+    },
+    ",\n,\n\nF7"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2.5,
+      "t": "#ffffff"
+    },
+    "Esc",
+    {
+      "t": "#ffffff\n#3b64ff"
+    },
+    "S\n2",
+    {
+      "t": "#ffffff\n\n\n#f9ff00"
+    },
+    "B\n\n\nNumLk",
+    {
+      "x": 2
+    },
+    "\"\n\n\nLeft",
+    {
+      "t": "#ffffff\n#3b64ff\n\n#f9ff00"
+    },
+    "F\n4\n\nHome",
+    "G\n5\n\nRight",
+    {
+      "x": 0.5
+    },
+    "H\n6\n\nLeft",
+    "J\n7\n\nHome",
+    "'\n_\n\nRight",
+    {
+      "x": 2
+    },
+    "N\n;\n\nInsert",
+    "L\n9\n\nPrtSc",
+    {
+      "fa": [
+        0,
+        2,
+        0,
+        2
+      ]
+    },
+    "Win\nWin\n\nWin"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 1,
+      "fa": [
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "Q\n!\n\nF2",
+    {
+      "x": 17.5
+    },
+    "P\n)\n\nPgUp"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 3.5
+    },
+    "X\nx\n\nF3",
+    {
+      "x": 4
+    },
+    "V\n-\n\nDown",
+    {
+      "x": 2.5
+    },
+    "M\n+\n\nDown",
+    {
+      "x": 4
+    },
+    ".\n.\n\nF9"
+  ],
+  [
+    {
+      "y": -0.5,
+      "t": "#ffffff"
+    },
+    "Del",
+    {
+      "t": "#ffffff\n#3b64ff\n\n#f9ff00"
+    },
+    "A\n1\n\nMode",
+    "[\n~\n\nScroll",
+    {
+      "x": 15.5
+    },
+    "]\n]\n\nF11",
+    ";\n0\n\nPause",
+    {
+      "t": "#ffffff\n\n\n#f9ff00"
+    },
+    "\\\n\n\nF12"
+  ],
+  [
+    {
+      "x": 1,
+      "t": "#ffffff\n#3b64ff\n\n#f9ff00"
+    },
+    "Z\n=\n\nF1",
+    {
+      "x": 5.25,
+      "t": "#ffffff"
+    },
+    "Norm",
+    {
+      "x": 1
+    },
+    "Tab",
+    {
+      "x": 1
+    },
+    "Bkspc",
+    {
+      "x": 1
+    },
+    "Func",
+    {
+      "x": 5.25,
+      "t": "#ffffff\n#3b64ff\n\n#f9ff00"
+    },
+    "/\n?\n\nPgDn"
+  ],
+  [
+    {
+      "x": 8.25,
+      "t": "#ffffff"
+    },
+    "Shift",
+    {
+      "x": 3
+    },
+    "NAS"
+  ],
+  [
+    {
+      "x": 8.25
+    },
+    "CAPS",
+    {
+      "x": 3,
+      "fa": [
+        1
+      ]
+    },
+    "NAS_LOCK"
+  ],
+  [
+    {
+      "x": 7.25,
+      "f": 3
+    },
+    "Return",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "Ctrl",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "Alt",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "Spc"
+  ]
+]
+Datahand-Original-QWERTY-Layout.notes.md
+This is the alpha layer layout for the original Datahand keyboard design, in QWERTY. This is a starting point for QWERTY lalboard development -- note that Shift2 and NAS2 are not available on V1/V2 lalboards.
+
+@morganvenable
+ 
